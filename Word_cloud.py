@@ -1,9 +1,4 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Fri May 29 22:13:35 2020
-
-@author: chiku
-"""
 import wordcloud
 import numpy as np
 from matplotlib import pyplot as plt
